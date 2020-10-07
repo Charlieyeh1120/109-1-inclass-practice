@@ -1,0 +1,26 @@
+---
+title: "課?<a0>?練習模<e7><89><88>"
+author: "???L?F"
+date: "2020-10-07"
+output: output_format
+params:
+  id: "410973073"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Your code
+
+```{r}
+char1Vector<-c("你好","How are you?")
+```
+
+```{r}
+context <- "老師說換行要寫\\n"
+cat(context)
+```
+```{r}
+
+```
